@@ -4,5 +4,5 @@ layout: page
 
  * [Google Scholar](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en)
  * [DBLP](https://dblp.uni-trier.de/pers/hd/m/Murrugarra=Llerena:Nils)
- * [resume](https://google.com/)
- * [CV](https://google.com/)
+ * [resume](nineil.github.io/files/nils_CV_small_10.2018.pdf)
+ * [CV](nineil.github.io/files/nils_CV_full_10.2018.pdf)
