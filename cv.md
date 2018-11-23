@@ -1,7 +1,5 @@
 ---
 layout: page
-title: CV
-use-site-title: false
 ---
 
  * [Google Scholar](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en)
