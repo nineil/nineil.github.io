@@ -1,7 +1,6 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Home
 ---
 
 Hola, soy Nils Ever Murrugarra Llerena, maestro por el Instituto de Ciencias Matemáticas y de Computación ([[http://icmc.usp.br/|ICMC-USP]]) de la [[http://www4.usp.br/|Universidad de São Paulo]] (Brasil). Mis$
