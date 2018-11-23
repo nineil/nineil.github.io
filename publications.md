@@ -11,6 +11,4 @@ title: Publications
   * **Murrugarra-Llerena, Nils**, Alva-Manchego, Fernando y Oliveira Rezende, Solange (2011). Comparação de Grades Curriculares de Cursos de Computação Baseada em Agrupamento Hierárquico de Textos. En XIX Wo$
   * **Murrugarra-Llerena, Nils**, Fernandez-Asunción, Oscar y Castañeda-León, Leissi (2008). Reconstrucción de Superficies 3D aplicadas a imágenes médicas. Proceedings de las VII Jornadas Peruanas de Comput$
   * Carranza-Athó, Fredy y **Murrugarra-Llerena, Nils**. Detection of fish eye disease in olives using graphics processing. F. Carranza-Athó and N. Murrugarra-Llerena. In Proceedings of the VI Peruvian Conference on Computing (JPC-2007), pages 171–179, Trujillo, Peru, 2007.
-Peruvian Computer Science Society
-  * **Murrugarra-Llerena, Nils**, Carranza-Athó, Fredy y Vaca-Poquioma, Ivan (2007). Método Esteganográfico usando Recorrido de Grafos en Imágenes. Proceedings de la VI Jornadas Peruanas de Computación ([[ht$
-  * Vaca-Poquioma, Ivan y **Murrugarra-Llerena, Nils** (2007). Interpolación aplicada a la determinación del Crecimiento Microbiano. Proceedings de la VI Jornadas Peruanas de Computación ([[http://eventos.spc.$
+Peruvian Computer Science Society [pdf]()
