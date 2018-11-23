@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Publications
-use-site-title: false
 ---
 
 **2018**
