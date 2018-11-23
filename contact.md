@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+use-site-title: false
 ---
 
 Nils Murrugarra-Llerena 
