@@ -25,5 +25,4 @@ layout: page
 * 3D surface reconstruction applied to medical imaging. **N. Murrugarra-Llerena**, O. Fernandez-Asunción, and L.Castañeda-León. In Proceedings of the VII Peruvian Conference on Computing (JPC-2008), pages 210–221, Lima, Peru, 2008. Peruvian Computer Science Society. [[pdf](https://google.com)]
 
 **2007**
-* Carranza-Athó, Fredy y **Murrugarra-Llerena, Nils**. Detection of fish eye disease in olives using graphics processing. F. Carranza-Athó and N. Murrugarra-Llerena. In Proceedings of the VI Peruvian Conference on Computing (JPC-2007), pages 171–179, Trujillo, Peru, 2007.
-Peruvian Computer Science Society. [[pdf](https://google.com)]
+* Carranza-Athó, Fredy y **Murrugarra-Llerena, Nils**. Detection of fish eye disease in olives using graphics processing. F. Carranza-Athó and N. Murrugarra-Llerena. In Proceedings of the VI Peruvian Conference on Computing (JPC-2007), pages 171–179, Trujillo, Peru, 2007. Peruvian Computer Science Society. [[pdf](https://google.com)]
