@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+use-site-title: false
 ---
 
 Nils Murrugarra-Llerena 
