@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+use-site-title: false
 ---
 
 * Image retrieval with mixed initiative and multimodal feedback. **N. Murrugarra-Llerena** and A. Kovashka. In Proceedings of LatinX in AI research workshop. Thirty-second Conference on Neural Information ProcessingSystems (NIPS), Montreal, Canada, 2018. (**to appear**) [[pdf](https://google.com)]
@@ -13,5 +14,7 @@ title: Publications
 * A graph-based bagging. **N. Murrugarra-Llerena** and A. de Andrade Lopes. In Proceedings of the CoLISD: Collective Learning and Inference on Structured Data, pages 25–36, Atenas, Greece, 2011. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). [[pdf](https://google.com)]
 * Comparison of computing curriculums using text hierarchical clustering. **N. Murrugarra-Llerena**, F. Alva-Manchego, and S. Oliveira Rezende. In Proceedings of the XXXI Congress of the Brazilian Computer Society (CSBC), pages 1616–1625, Natal, RN, Brazil, 2011. Brazilian Computer Science Society. [[pdf](https://google.com)]
 * 3D surface reconstruction applied to medical imaging. **N. Murrugarra-Llerena**, O. Fernandez-Asunción, and L.Castañeda-León. In Proceedings of the VII Peruvian Conference on Computing (JPC-2008), pages 210–221, Lima, Peru, 2008. Peruvian Computer Science Society. [[pdf](https://google.com)]
+
+#2007
 * Carranza-Athó, Fredy y **Murrugarra-Llerena, Nils**. Detection of fish eye disease in olives using graphics processing. F. Carranza-Athó and N. Murrugarra-Llerena. In Proceedings of the VI Peruvian Conference on Computing (JPC-2007), pages 171–179, Trujillo, Peru, 2007.
 Peruvian Computer Science Society. [[pdf](https://google.com)]
