@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "aboutme"
+  Home: ""
   Publications: "publications"
   CV: "cv"
   Contact: "contact"
