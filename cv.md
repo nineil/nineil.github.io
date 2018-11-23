@@ -4,9 +4,7 @@ title: CV
 use-site-title: false
 ---
 
-Nils Murrugarra-Llerena 
-Computer Science Department
-University of Pittsburgh 
-5404 Sennott Square
-210 S Bouquet St. Pittsburgh, PA 15260
-nineil at cs.pitt.edu
+ * [Google Scholar])(https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en)
+ * [DBLP](https://dblp.uni-trier.de/pers/hd/m/Murrugarra=Llerena:Nils)
+ * [resume](https://google.com/)
+ * [CV](https://google.com/)
