@@ -8,7 +8,7 @@ layout: page
 * Asking friendly strangers: non-semantic attribute transfer. **N. Murrugarra-Llerena** and A. Kovashka. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Lousiana, USA, 2018. AAAI. [[pdf](https://nineil.github.io/files/pubs/aaai_2018.pdf)] [[poster](https://nineil.github.io/files/pubs/aaai_2018_poster.pdf)] [[slides](https://nineil.github.io/files/pubs/aaai_2018_slides.pdf)]
 
 **2017**
-* Learning attributes from human gaze. **N. Murrugarra-Llerena** and A. Kovashka. In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Santa Rosa, California, USA, 2017. IEEE. [[pdf](https:nineil.github.io/files/pubs/wacv_2017.pdf)] [[supp](https://nineil.github.io/files/pubs/wacv_2017_supp.pdf)] [[poster](https://nineil.github.io/files/pubs/wacv_2017_poster.pdf)] [[slides](https://nineil.github.io/files/pubs/wacv_2017_slides.pdf)]
+* Learning attributes from human gaze. **N. Murrugarra-Llerena** and A. Kovashka. In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Santa Rosa, California, USA, 2017. IEEE. [[pdf](https://nineil.github.io/files/pubs/wacv_2017.pdf)] [[supp](https://nineil.github.io/files/pubs/wacv_2017_supp.pdf)] [[poster](https://nineil.github.io/files/pubs/wacv_2017_poster.pdf)] [[slides](https://nineil.github.io/files/pubs/wacv_2017_slides.pdf)]
 
 **2013**
 * Isolated words recognition using a low-cost microcontroller. C. González-Cadenillas and **N. Murrugarra-Llerena**. In Proceedings of the III Brazilian Symposium on Computational Systems Engineering (SBESC), pages 77–82, Niteroi, RJ, Brazil, 2013. IEEE. [[pdf](https://nineil.github.io/files/pubs/sbesc_2013.pdf)]
