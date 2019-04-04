@@ -8,7 +8,7 @@ layout: page
 
 
 **2018**
-* **N. Murrugarra-Llerena** and A. Kovashka. Image retrieval with mixed initiative and multimodal feedback. In Proceedings of LatinX in AI research workshop. Thirty-second Conference on Neural Information ProcessingSystems (NIPS), Montreal, Canada, 2018. (**to appear**) [[pdf](https://nineil.github.io/files/pubs/latinXinAI_nips_2018.pdf)]
+* **N. Murrugarra-Llerena** and A. Kovashka. Image retrieval with mixed initiative and multimodal feedback. In Proceedings of LatinX in AI research workshop. Thirty-second Conference on Neural Information ProcessingSystems (NIPS), Montreal, Canada, 2018. [[pdf](https://nineil.github.io/files/pubs/latinXinAI_nips_2018.pdf)]
 * **N. Murrugarra-Llerena** and A. Kovashka. Image retrieval with mixed initiative and multimodal feedback. In Proceedings of the British Machine Vision Conference (BMVC), Newcastle upon Tyne, United Kingdom, 2018. Springer. (**oral**) [[pdf](https://nineil.github.io/files/pubs/bmvc_2018.pdf)] [[supp](https://nineil.github.io/files/pubs/bmvc_2018_supp.zip)] [[poster](https://nineil.github.io/files/pubs/bmvc_2018_poster.pdf)][[slides](https://nineil.github.io/files/pubs/bmvc_2018_slides.pdf)] [[presentation](https://youtu.be/xRtWd6lK18Q?t=3611)]
 * **N. Murrugarra-Llerena** and A. Kovashka. Asking friendly strangers: non-semantic attribute transfer. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Lousiana, USA, 2018. AAAI. [[pdf](https://nineil.github.io/files/pubs/aaai_2018.pdf)] [[poster](https://nineil.github.io/files/pubs/aaai_2018_poster.pdf)] [[slides](https://nineil.github.io/files/pubs/aaai_2018_slides.pdf)]
 
