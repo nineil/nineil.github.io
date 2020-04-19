@@ -3,7 +3,7 @@ layout: page
 ---
 
 **2019**
-* **N. Murrugarra-Llerena** and A. Kovashka. Involving humans to learn attributes. In Proceedings of LatinX in AI research workshop. Thirty-third Conference on Neural Information ProcessingSystems (**NeurIPS**), Vancouver, Canada, 2019. [[pdf](https://nineil.github.io/files/pubs/ 	latinXinAI_NeurIPS_2019.pdf)]
+* **N. Murrugarra-Llerena** and A. Kovashka. Involving humans to learn attributes. In Proceedings of LatinX in AI research workshop. Thirty-third Conference on Neural Information ProcessingSystems (**NeurIPS**), Vancouver, Canada, 2019. [[pdf](https://nineil.github.io/files/pubs/latinXinAI_NeurIPS_2019.pdf)]
 * **N. Murrugarra-Llerena** and A. Kovashka. Asking friendly strangers: non-semantic attribute transfer. In Proceedings of LatinX in AI research workshop. Thirty-six International Conference on Machine Learning (**ICML**), Long Beach, California, USA, 2019. [[pdf](https://nineil.github.io/files/pubs/latinXinAI_ICML_2019.pdf)]
 * **N. Murrugarra-Llerena** and A. Kovashka. Cross-Modality Personalization for Retrieval. In Proceedings of Computer Vision and Pattern Recognition (**CVPR**), Long Beach, California, USA, 2019. IEEE. (**oral**) [[pdf](https://nineil.github.io/files/pubs/cvpr_2019.pdf)] [[supp](https://nineil.github.io/files/pubs/cvpr_2019_supp.pdf)]
 
