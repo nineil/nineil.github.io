@@ -3,7 +3,6 @@ layout: page
 ---
 
 CS1674/2074: Introduction to Computer Vision, Fall 2024
-
 Location (class): Sennott Square 5313
 
 Class time: Tuesday and Thrusday, 11:00am - 12:15pm
