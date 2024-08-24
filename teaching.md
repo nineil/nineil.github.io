@@ -15,11 +15,11 @@ layout: page
 
 ### Schedule
 
-Date        | Chapter  | Topic         | Slides | Homework
------------ | -----------
-08/27       | Intro    | Introduction  |        |
-08/29       |          |               |        |
-09/03       |          |               |        |
+Date        | Chapter      | Topic         | Slides       | Homework
+----------- | -----------  | -----------   | -----------  | -----------
+08/27       | Intro        | Introduction  |              |
+08/29       |              |               |              |
+09/03       |              |               |              |
 
 
 
