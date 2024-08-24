@@ -15,8 +15,8 @@ layout: page
 
 ### Schedule
 
-Date   | Chapter | Topic | Slides
+Date        | Chapter  | Topic         | Slides | Homework
 ----------- | -----------
-title       | Page or blog post title
-subtitle    | Short description of page or blog post that goes under the title
-tags        | List of tags to categorize the post. Separate the tags with commas and place them inside square brackets. Example: `[personal, self help, finance]`
+08/27       | Intro    | Introduction  |        |
+08/29       |          |               |        |
+09/03       |          |               |        |
