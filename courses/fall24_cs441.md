@@ -4,7 +4,7 @@ layout: page
 
 **CS441: Discrete Structures for Computer Science, Fall 2024**
 
-**Location (class):** Sennott Square 5313<br>
+**Location (class):** (Section A) Sennott Square 5502, and (Section B) LAWRN 207<br>
 **Class time:** (Section A) Monday and Wednesday, 1:00 - 2:15pm, and (Section B) Monday and Wednesday, 3:00 - 4:15pm<br>
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "CS441" at the beginning of the subject line)<br>
 **Instructor's office hours:** Tuesdat and Wednesday, 9am-11am<br>
