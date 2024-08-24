@@ -18,6 +18,6 @@ layout: page
 
 Date        | Chapter      | Topic         | Slides       | Homework
 ----------- | -----------  | -----------   | -----------  | -----------
-08/27       | Intro        | Introduction  |              |
-08/29       |              |               |              |
-09/03       |              |               |              |
+08/26       | Intro        | Introduction  |              |
+08/28       |              |               |              |
+09/02       |              |               |              |
