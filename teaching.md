@@ -2,7 +2,8 @@
 layout: page
 ---
 
-**CS1674/2074: Introduction to Computer Vision, Fall 2024**<br>
+# **CS1674/2074: Introduction to Computer Vision, Fall 2024**<br>
+
 **Location (class):** Sennott Square 5313<br>
 **Class time:** Tuesday and Thrusday, 11:00am - 12:15pm<br>
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "CS1674" at the beginning of the subject line)<br>
@@ -20,11 +21,3 @@ Date        | Chapter      | Topic         | Slides       | Homework
 08/27       | Intro        | Introduction  |              |
 08/29       |              |               |              |
 09/03       |              |               |              |
-
-
-
-Parameter   | Description
------------ | -----------
-title       | Page or blog post title
-subtitle    | Short description of page or blog post that goes under the title
-tags        | List of tags to categorize the post. Separate the tags with commas and place them inside square brackets. Example: `[personal, self help, finance]`
