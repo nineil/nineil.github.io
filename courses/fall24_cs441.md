@@ -18,6 +18,6 @@ layout: page
 
 Date        | Chapter      | Topic         | Slides       
 ----------- | -----------  | -----------   | -----------  
-08/26       | Intro        | Introduction  | lec_1.intro[pdf](https://sites.pitt.edu/~nem177/courses/cs441/lec_1.intro.pdf)             
+08/26       | Intro        | Introduction  | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/cs441/lec_1.intro.pdf)]
 08/28       |              |               |              
 09/02       |              |               |              
