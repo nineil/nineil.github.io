@@ -16,8 +16,8 @@ layout: page
 
 ### Schedule
 
-Date        | Chapter      | Topic         | Slides       | Homework
------------ | -----------  | -----------   | -----------  | -----------
-08/26       | Intro        | Introduction  |              |
-08/28       |              |               |              |
-09/02       |              |               |              |
+Date        | Chapter      | Topic         | Slides       
+----------- | -----------  | -----------   | -----------  
+08/26       | Intro        | Introduction  | lec_1.intro[pdf](https://sites.pitt.edu/~nem177/courses/cs441/lec_1.intro.pdf)             
+08/28       |              |               |              
+09/02       |              |               |              
