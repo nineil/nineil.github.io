@@ -19,5 +19,5 @@ layout: page
 Date        | Chapter          | Topic             | Slides       
 ----------- | -----------      | -----------       | -----------  
 08/26       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pptx)]
-08/28       |                  | Propostional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pptx)]              
+08/28       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pptx)]              
 09/02       |                  |                   |              
