@@ -25,8 +25,8 @@ Office: [Zoom](https://pitt.zoom.us/j/93253767006)<br>
 Office Hours: Tue 2:00 pm – 3:30 pm / Thu 9:00 am – 10:30 am<br>
 
 Astalaxmi Dhanaseelan (asd153 AT pitt DOT edu)<br>
-Office: Zoom / SENSQ 5804<br>
-Office Hours: Mon 3:00 pm – 4:45 pm @ Zoom / Tue 5:20 pm – 6:35 pm @ SENSQ 5804<br>
+Office: [Zoom](https://pitt.zoom.us/j/99835381716) / SENSQ 5804<br>
+Office Hours: Mon 3:00 pm – 4:45 pm @ [Zoom](https://pitt.zoom.us/j/99835381716) / Tue 5:20 pm – 6:35 pm @ SENSQ 5804<br>
 
 David Shi (dzs19 AT pitt DOT edu)<br>
 Office: SENSQ 5806<br>
