@@ -21,7 +21,7 @@ Office: SENSQ 5806<br>
 Office Hours: Mon 4:30 pm – 6:00 pm / Tue 11:00 am – 12:30 pm<br>
 
 Annie Wang (agw23 AT pitt DOT edu)<br>
-Office: Zoom<br>
+Office: [Zoom](https://pitt.zoom.us/j/93253767006)<br>
 Office Hours: Tue 2:00 pm – 3:30 pm / Thu 9:00 am – 10:30 am<br>
 
 Astalaxmi Dhanaseelan (asd153 AT pitt DOT edu)<br>
