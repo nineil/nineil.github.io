@@ -10,12 +10,12 @@ layout: page
 **Instructor's office hours:** Tuesdat and Wednesday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
 **Teaching Assistants**<br>
-[Grader]<br>
+**[Grader]**<br>
 Anveshika Kamble (ark411 AT pitt DOT edu)<br>
 Office: SENSQ 6803<br>
 Office Hours: Tue 2:00 pm – 5:00 pm<br>
 
-[Recitation]<br>
+**[Recitation]**<br>
 Nick Ferguson (ndf27 AT pitt DOT edu)<br>
 Office: SENSQ 5806<br>
 Office Hours: Mon 4:30 pm – 6:00 pm / Tue 11:00 am – 12:30 pm<br>
