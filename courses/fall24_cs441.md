@@ -10,32 +10,31 @@ layout: page
 **Instructor's office hours:** Tuesdat and Wednesday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
 **Teaching Assistants**<br>
-[Grader]
-Anveshika Kamble (ark411 AT pitt DOT edu)
-Office: SENSQ 6803
-Office Hours: Tue 2:00 pm – 5:00 pm
+[Grader]<br>
+Anveshika Kamble (ark411 AT pitt DOT edu)<br>
+Office: SENSQ 6803<br>
+Office Hours: Tue 2:00 pm – 5:00 pm<br>
 
-[Recitation]
-Nick Ferguson (ndf27 AT pitt DOT edu)
-Office: SENSQ 5806
-Office Hours: Mon 4:30 pm – 6:00 pm / Tue 11:00 am – 12:30 pm
+[Recitation]<br>
+Nick Ferguson (ndf27 AT pitt DOT edu)<br>
+Office: SENSQ 5806<br>
+Office Hours: Mon 4:30 pm – 6:00 pm / Tue 11:00 am – 12:30 pm<br>
 
-Annie Wang (agw23 AT pitt DOT edu)
-Office: Zoom
-Office Hours: Tue 2:00 pm – 3:30 pm / Thu 9:00 am – 10:30 am
+Annie Wang (agw23 AT pitt DOT edu)<br>
+Office: Zoom<br>
+Office Hours: Tue 2:00 pm – 3:30 pm / Thu 9:00 am – 10:30 am<br>
 
-Astalaxmi Dhanaseelan (asd153 AT pitt DOT edu)
-Office: Zoom / SENSQ 5804
-Office Hours: Mon 3:00 pm – 4:45 pm @ Zoom / Tue 5:20 pm – 6:35 pm @ SENSQ 5804
+Astalaxmi Dhanaseelan (asd153 AT pitt DOT edu)<br>
+Office: Zoom / SENSQ 5804<br>
+Office Hours: Mon 3:00 pm – 4:45 pm @ Zoom / Tue 5:20 pm – 6:35 pm @ SENSQ 5804<br>
 
-David Shi (dzs19 AT pitt DOT edu)
-Office: SENSQ 5806
-Office Hours: Tue 2:00 pm – 3:30 pm / Thu 1:00 pm – 2:30 pm
+David Shi (dzs19 AT pitt DOT edu)<br>
+Office: SENSQ 5806<br>
+Office Hours: Tue 2:00 pm – 3:30 pm / Thu 1:00 pm – 2:30 pm<br>
 
-Owen Capell (oac8 AT pitt DOT edu)
-Office: SENSQ 5804 / SENSQ 6503
-Office Hours: Mon 11:00 am – 1:00 pm @ SENSQ 5804 / Tue 10:45 am – 12:45 pm @ SENSQ
-6503
+Owen Capell (oac8 AT pitt DOT edu)<br>
+Office: SENSQ 5804 / SENSQ 6503<br>
+Office Hours: Mon 11:00 am – 1:00 pm @ SENSQ 5804 / Tue 10:45 am – 12:45 pm @ SENSQ 6503<br>
 
 **Canvas:** used for announcements and assignment submission<br>
 
