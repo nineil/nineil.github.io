@@ -9,9 +9,34 @@ layout: page
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "CS441" at the beginning of the subject line)<br>
 **Instructor's office hours:** Tuesdat and Wednesday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
-**TA:** TBD<br>
-**TA's office hours:** TBD<br>
-**TA's office:** TBD<br>
+**Teaching Assistants**<br>
+[Grader]
+Anveshika Kamble (ark411 AT pitt DOT edu)
+Office: SENSQ 6803
+Office Hours: Tue 2:00 pm – 5:00 pm
+
+[Recitation]
+Nick Ferguson (ndf27 AT pitt DOT edu)
+Office: SENSQ 5806
+Office Hours: Mon 4:30 pm – 6:00 pm / Tue 11:00 am – 12:30 pm
+
+Annie Wang (agw23 AT pitt DOT edu)
+Office: Zoom
+Office Hours: Tue 2:00 pm – 3:30 pm / Thu 9:00 am – 10:30 am
+
+Astalaxmi Dhanaseelan (asd153 AT pitt DOT edu)
+Office: Zoom / SENSQ 5804
+Office Hours: Mon 3:00 pm – 4:45 pm @ Zoom / Tue 5:20 pm – 6:35 pm @ SENSQ 5804
+
+David Shi (dzs19 AT pitt DOT edu)
+Office: SENSQ 5806
+Office Hours: Tue 2:00 pm – 3:30 pm / Thu 1:00 pm – 2:30 pm
+
+Owen Capell (oac8 AT pitt DOT edu)
+Office: SENSQ 5804 / SENSQ 6503
+Office Hours: Mon 11:00 am – 1:00 pm @ SENSQ 5804 / Tue 10:45 am – 12:45 pm @ SENSQ
+6503
+
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule
