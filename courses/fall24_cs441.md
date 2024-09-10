@@ -47,4 +47,5 @@ Date        | Chapter          | Topic             | Slides
 09/02       |                  | Holiday                  |   
 09/04       |                  | Propositional Logic<br>Logic Puzzles and Propositional Equivalence                   | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pptx)]  
 09/09       |                  | Logic Puzzles and Propositional Equivalence<br>Predicates and Quantifiers                   | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pptx)]  
-09/11       |                  |                    |  
+09/11       |                  | Predicates and Quantifiers<br>Nested Quantifiers                   | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pptx)]  
+09/16       |                  |                    |  
