@@ -49,4 +49,6 @@ Date        | Chapter          | Topic             | Slides
 09/09       |                  | Logic Puzzles and Propositional Equivalence<br>Predicates and Quantifiers                   | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pptx)]  
 09/11       |                  | Predicates and Quantifiers                   | 
 09/16       |                  | Predicates and Quantifiers<br>Nested Quantifiers                   | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pptx)]  
-09/18       |                  |                    |  
+09/18       |                  | Rules of Inference                   |  lec_7.rulees-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_7.rulees-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_7.rulees-of-inference.pptx)]
+09/xy       |                  |                    |  
+
