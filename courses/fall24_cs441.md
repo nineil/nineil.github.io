@@ -44,16 +44,20 @@ Date        | Chapter          | Topic             | Slides
 ----------- | -----------      | -----------       | -----------  
 08/26       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pptx)]
 08/28       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pptx)]              
-09/02       |                  | Holiday                  |   
+09/02       |                  | Holiday           |   
 09/04       |                  | Propositional Logic<br>Logic Puzzles and Propositional Equivalence                   | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pptx)]  
 09/09       |                  | Logic Puzzles and Propositional Equivalence<br>Predicates and Quantifiers                   | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_5.predicates.pptx)]  
 09/11       |                  | Predicates and Quantifiers                   | 
 09/16       |                  | Predicates and Quantifiers<br>Nested Quantifiers                   | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_6.nested-quantifiers.pptx)]  
 09/18       |                  | Rules of Inference                   |  lec_7.rules-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_7.rules-of-inference.pptx)]
-09/23       |                  | Informal Proofs                   |  lec_8.informal-proofs  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_8.informal-proofs.pptx)]
-09/25       |                  | Proof Methods                   |  lec_9.proof-methods  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_9.proof-methods.pptx)]
-09/30       | Basic Structures | Sets                   |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pptx)]
-10/02       |                  | Set Identities                     |  lec_11.set-identities  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pptx)]
-09/xy       |                  |                    |  
+09/23       |                  | Informal Proofs    |  lec_8.informal-proofs  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_8.informal-proofs.pptx)]
+09/25       |                  | Proof Methods      |  lec_9.proof-methods  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_9.proof-methods.pptx)]
+09/30       | Basic Structures | Sets               |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pptx)]
+10/02       |                  | Set Identities     |  lec_11.set-identities  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pptx)]
+10/07       |                  | Exam 1 Review      |  
+10/09       |                  | Functions          |  
+10/14       |                  | Fall Break         |  
+10/16       |                  | Exam 1             |  
+10/xy       |                  |                    |  
 
 
