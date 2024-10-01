@@ -55,7 +55,7 @@ Date        | Chapter          | Topic             | Slides
 09/30       | Basic Structures | Sets               |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_10.sets.pptx)]
 10/02       |                  | Set Identities     |  lec_11.set-identities  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_11.set-identities.pptx)]
 10/07       |                  | Exam 1 Review      |  
-10/09       |                  | Functions          |  
+10/09       |                  | Functions          |  lec_12.functions  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_12.functions.pptx)]
 10/14       |                  | No class: Fall Break         |  
 10/16       |                  | Exam 1             |  
 10/xy       |                  |                    |  
