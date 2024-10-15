@@ -58,6 +58,8 @@ Date        | Chapter          | Topic             | Slides
 10/09       |                  | Functions          |  lec_12.functions  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_12.functions.pptx)]
 10/14       |                  | No class: Fall Break         |  
 10/16       |                  | Exam 1             |  
+10/21       |                  | Sequences and Summation                   |  
+10/23       |                  | Infinite Cardinalities                   |  
 10/xy       |                  |                    |  
 
 
