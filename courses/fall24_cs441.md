@@ -59,7 +59,7 @@ Date        | Chapter          | Topic             | Slides
 10/14       |                  | No class: Fall Break         |  
 10/16       |                  | Exam 1             |  
 10/21       |                  | Sequences and Summation                   |  lec_13.sequences-summations  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_13.sequences-summations.pptx)]
-10/23       |                  | Infinite Cardinalities                   |  
+10/23       |                  | Infinite Cardinalities                   |  lec_14.infinite-cardinalities  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_14.infinite-cardinalities.pptx)]
 10/xy       |                  |                    |  
 
 
