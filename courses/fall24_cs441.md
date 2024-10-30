@@ -63,7 +63,7 @@ Date        | Chapter          | Topic             | Slides
 10/28       | Algorithms       | Algorithms                   |  lec_15.algorithms  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_15.algorithms.pptx)]
 10/30       |                  | Growth Rates                   |  lec_16.growth-rates  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_16.growth-rates.pptx)]
 11/04       |                  | Complexity                   |  lec_17.complexity  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_17.complexity.pptx)]
-11/06       |                  | Divisibility                   |  lec_18.divisibility  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pptx)]
+11/06       | Number theory and Cryptography                 | Divisibility                   |  lec_18.divisibility  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pptx)]
 11/xy       |                  |                    |  
 
 
