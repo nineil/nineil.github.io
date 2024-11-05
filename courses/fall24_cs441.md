@@ -64,6 +64,10 @@ Date        | Chapter          | Topic             | Slides
 10/30       |                  | Growth Rates                   |  lec_16.growth-rates  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_16.growth-rates.pptx)]
 11/04       |                  | Complexity                   |  lec_17.complexity  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_17.complexity.pptx)]
 11/06       | Number theory and Cryptography                 | Divisibility                   |  lec_18.divisibility  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pptx)]
+11/11       |                  | Integer Representations |  lec_19.integer-representations  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_19.integer-representations.pptx)]
+11/13       |                  | Primes                  |  lec_20.primes  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pptx)]
 11/xy       |                  |                    |  
+
+
 
 
