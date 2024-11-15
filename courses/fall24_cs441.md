@@ -66,7 +66,10 @@ Date        | Chapter          | Topic             | Slides
 11/06       | Number theory and Cryptography                 | Divisibility                   |  lec_18.divisibility  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_18.divisibility.pptx)]
 11/11       |                  | Integer Representations |  lec_19.integer-representations  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_19.integer-representations.pptx)]
 11/13       |                  | Primes                  |  lec_20.primes  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pptx)]
+11/18       |                  | Congruences                    |  lec_21.congruences  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_21.congruences.pptx)]
+11/20       |                  |                    |  
 11/xy       |                  |                    |  
+
 
 
 
