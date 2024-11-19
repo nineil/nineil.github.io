@@ -68,7 +68,11 @@ Date        | Chapter          | Topic             | Slides
 11/13       |                  | Primes                  |  lec_20.primes  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_20.primes.pptx)]
 11/18       |                  | Congruences                    |  lec_21.congruences  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_21.congruences.pptx)]
 11/20       |                  | Cryptography                   |  lec_22.cryptography  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_22.cryptography.pptx)]
-11/xy       |                  |                    |  
+11/25       |                  | No class: Thanksgiving                   |  
+11/27       |                  | No class: Thanksgiving                   |  
+12/02       |                  | Induction                   |  lec_23.induction  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_23.induction.pptx)]
+12/04       |                  | Exam 2 Review      |  
+12/xy       |                  |                    |  
 
 
 
