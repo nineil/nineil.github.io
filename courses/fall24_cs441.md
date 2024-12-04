@@ -72,7 +72,9 @@ Date        | Chapter          | Topic             | Slides
 11/27       |                  | No class: Thanksgiving                   |  
 12/02       |                  | Induction                   |  lec_23.induction  [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_23.induction.pptx)]
 12/04       |                  | Exam 2 Review      |  
-12/xy       |                  |                    |  
+12/09       |                  | Exam 2 Review      |  
+12/13       |                  | Exam 2 --> Section A, 8:00 am - 9:50 am @ SENSQ 5502       |  
+12/17       |                  | Exam 2 --> Section B, 12:00 pm – 1:50 pm @ LAWRN 207       |  
 
 
 
