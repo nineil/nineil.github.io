@@ -12,9 +12,9 @@ layout: page
 **Teaching Assistants**<br>
 TBD<br>
 # **[Grader]**<br>
-# Anveshika Kamble (ark411 AT pitt DOT edu)<br>
+<!-- Anveshika Kamble (ark411 AT pitt DOT edu)<br>
 # Office: [Zoom](https://pitt.zoom.us/j/5835648820)<br>
-# Office Hours: Tue 2:00 pm – 5:00 pm<br>
+# Office Hours: Tue 2:00 pm – 5:00 pm<br> -->
 
 **[Recitation]**<br>
 Nick Ferguson (ndf27 AT pitt DOT edu)<br>
