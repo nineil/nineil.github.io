@@ -18,4 +18,4 @@ TBD<br>
 
 Date        | Chapter          | Topic             | Slides       
 ----------- | -----------      | -----------       | -----------  
-01/08       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pptx)]
+01/08       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pptx)]
