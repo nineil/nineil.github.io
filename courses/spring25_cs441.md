@@ -44,6 +44,7 @@ Office Hours: Mon 11:00 am – 1:00 pm @ SENSQ 5804 / Tue 10:45 am – 12:45 pm 
 Date        | Chapter          | Topic             | Slides       
 ----------- | -----------      | -----------       | -----------  
 01/08       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pptx)]
+
 <!--  08/28       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pptx)]              
 09/02       |                  | No class: Labor Day           |   
 09/04       |                  | Propositional Logic<br>Logic Puzzles and Propositional Equivalence                   | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_4.prop-equiv.pptx)]  
@@ -75,8 +76,8 @@ Date        | Chapter          | Topic             | Slides
 12/04       |                  | Exam 2 Review      |  
 12/09       |                  | Exam 2 Review      |  
 12/13       |                  | Exam 2 --> Section A, 8:00 am - 9:50 am @ SENSQ 5502       |  
-12/17       |                  | Exam 2 --> Section B, 12:00 pm – 1:50 pm @ LAWRN 207       |  -->
-
+12/17       |                  | Exam 2 --> Section B, 12:00 pm – 1:50 pm @ LAWRN 207       |  
+-->
 
 
 
