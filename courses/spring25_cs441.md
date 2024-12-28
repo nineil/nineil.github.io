@@ -19,6 +19,8 @@ TBD<br>
 Date        | Chapter          | Topic             | Slides       
 ----------- | -----------      | -----------       | -----------  
 01/08       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_1.intro.pptx)]
+
+
 <!--  
 08/28       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs441/lec_2.prop-logic.pptx)]              
 09/02       |                  | No class: Labor Day           |   
