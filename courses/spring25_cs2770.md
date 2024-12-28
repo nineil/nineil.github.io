@@ -1,1 +1,53 @@
 
+**CS1674/2074: Introduction to Computer Vision, Fall 2024**
+
+**Location (class):** Cathedral 229<br>
+**Class time:** Tuesday and Thrusday, 11:00am - 12:15pm<br>
+**Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "CS1674" at the beginning of the subject line)<br>
+**Instructor's office hours:** Tuesday and Wednesday, 9am-11am<br>
+**Instructor's office:** Sennott Square 5419<br>
+**TA:** Arushi Rai (email: arr159 AT pitt DOT edu; use "CS1674" at the beginning of the subject line)<br>
+**TA's office hours:** Friday, 2:00pm - 5:00pm<br>
+**TA's office:** Sennott Square 5404<br>
+**Canvas:** used for announcements and assignment submission<br>
+
+### Schedule
+
+Date        | Chapter      | Slides       | Homework
+----------- | -----------  | -----------  | -----------
+08/27       | Intro        | Intro_course [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.intro_course.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.intro_course.pptx)]<br> Linear_algebra [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.linear_algebra.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.linear_algebra.pptx)]             |
+08/29       |              | Linear_algebra<br> Python tutorial             | A1 on canvas
+09/03       | Low-level Vision             | Intro_cv [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_2.intro_cv.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_2.intro_cv.pptx)]<br> Filters and Texture [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_3.filters.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_3.filters.pptx)]              |
+09/05       |              | Filters and Texture              | 
+09/10       |              | Filters and Texture<br>Features [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_4.features.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_4.features.pptx)] | A2 on canvas
+09/12       |              | Features              |
+09/17       |              | Features              |
+09/19       |              | Features              | A3 on canvas
+09/24       |              | Grouping [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_5.grouping.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_5.grouping.pptx)]             |
+09/26       |              | Grouping              | A4 on canvas
+10/01       |              | Grouping              |
+10/03       |              | Exam 1 Review         | A5 on canvas
+10/08       | High-level Vision             | Intro to Recognition [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_6.recognition.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_6.recognition.pptx)]  |
+10/10       |              | Exam 1          |
+10/15       |              | No class: Fall Break          |
+10/17       |              | Intro to Recognition          |
+10/22       |              | Intro to Recognition          | A6 on canvas
+10/24       |              | Convolutional Neural Networks [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_7.cnns.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_7.cnns.pptx)]         |
+10/29       |              | Convolutional Neural Networks          |
+10/31       |              | Convolutional Neural Networks          | A7 on canvas
+11/05       |              | Object Recognition and Image Segmentation [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_8.objrec.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_8.objrec.pptx)] | 
+11/07       |              | Project Development |
+11/12       |              | Object Recognition and Image Segmentation |
+11/14       |              | Object Recognition and Image Segmentation<br>Sequential Data [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_9.sequences.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_9.sequences.pptx)] | A8 on canvas
+11/19       |              | Sequential Data |
+11/21       |              | Sequential Data |
+11/26       |              | No class: Thanksgiving                |
+11/28       |              | No class: Thanksgiving                |
+12/03       |              | Exam 2 Review                |
+12/05       |              | Exam 2          |
+12/12       |              | Kaggle/Project Presentations                |
+
+
+
+
+
