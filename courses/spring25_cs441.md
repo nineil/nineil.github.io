@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**CS441: Discrete Structures for Computer Science, Fall 2024**
+**CS441: Discrete Structures for Computer Science, Spring 2025**
 
 **Location (class):** (Section A) Sennott Square 5502, and (Section B) LAWRN 207<br>
 **Class time:** (Section A) Monday and Wednesday, 1:00 - 2:15pm, and (Section B) Monday and Wednesday, 3:00 - 4:15pm<br>
@@ -10,6 +10,7 @@ layout: page
 **Instructor's office hours:** Tuesdat and Wednesday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
 **Teaching Assistants**<br>
+TBD<br>
 **[Grader]**<br>
 Anveshika Kamble (ark411 AT pitt DOT edu)<br>
 Office: [Zoom](https://pitt.zoom.us/j/5835648820)<br>
