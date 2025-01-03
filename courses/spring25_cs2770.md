@@ -15,4 +15,4 @@
 
 Date        | Chapter      | Slides       | Homework
 ----------- | -----------  | -----------  | -----------
-01/08       | Intro        | Intro_course [[pdf](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.intro_course.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall24_cs1674/lec_1.intro_course.pptx)]             |
+01/08       | Intro        | Intro_course [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_1.intro_course.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_1.intro_course.pptx)]             |
