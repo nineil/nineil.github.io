@@ -10,16 +10,16 @@ layout: page
 **Instructor's office hours:** Monday, 11am - 1pm and Tueday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
 **Teaching Assistants**<br>
-Grader<br>
+**Grader**<br>
 
-<br>Recitation<br>
+<br>**Recitation**<br>
 Adelle Melnikov<br>
 Office: SENSQ 5804<br>
-Office Hours: Th 12:30 pm – 2:30 pm, Fri 2:00 pm – 3:00pm<br><br>
+Office Hours: Th 12:30 pm – 2:30 pm, Fri 2:00 pm – 3:00pm<br>
 
 Astalaxmi Dhanaseelan<br>
 Office: Online<br>
-Office Hours: Th 1:30 pm – 3:30 pm @ <a href="https://pitt.zoom.us/j/93911414055">zoom</a>, Fri 5:00 pm – 6:30 pm @ <a href="https://pitt.zoom.us/j/98259654541">zoom</a><br><br>
+Office Hours: Th 1:30 pm – 3:30 pm @ <a href="https://pitt.zoom.us/j/93911414055">zoom</a>, Fri 5:00 pm – 6:30 pm @ <a href="https://pitt.zoom.us/j/98259654541">zoom</a><br>
 
 
 
