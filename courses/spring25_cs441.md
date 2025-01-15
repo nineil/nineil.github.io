@@ -11,15 +11,26 @@ layout: page
 **Instructor's office:** SENSQ 5419<br>
 **Teaching Assistants**<br>
 **Grader**<br>
+Maanya Shanker<br>
+Email: maanya.shanker AT pitt DOT edu <br>
+Office: SENSQ 6414<br>
+Office Hours: Tue 1-2 pm, Th 12-1pm, Fri 10-11am<br>
 
 <br>**Recitation**<br>
 Adelle Melnikov<br>
+Email: ADM259 AT pitt DOT edu <br>
 Office: SENSQ 5804<br>
 Office Hours: Th 12:30 pm – 2:30 pm, Fri 2:00 pm – 3:00pm<br>
 
 Astalaxmi Dhanaseelan<br>
+Email: ASD153 AT pitt DOT edu <br>
 Office: Online<br>
 Office Hours: Th 1:30 pm – 3:30 pm @ <a href="https://pitt.zoom.us/j/93911414055">zoom</a>, Fri 5:00 pm – 6:30 pm @ <a href="https://pitt.zoom.us/j/98259654541">zoom</a><br>
+
+Ajay Ohm<br>
+Email: aao59 AT pitt DOT edu <br>
+Office: SENSQ 6503<br>
+Office Hours: Tue 4-7pm<br>
 
 **Canvas:** used for announcements and assignment submission<br>
 
