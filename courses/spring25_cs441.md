@@ -30,10 +30,22 @@ Office Hours: Tue 4-7pm<br>
 
 **Canvas:** used for announcements and assignment submission<br>
 
-### Schedule
+### Schedule - Section A
 
 Date        | Chapter          | Topic             | Slides       
 ----------- | -----------      | -----------       | -----------  
-01/08-09       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pptx)]
-01/13-14       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pptx)] 
-01/15-16       |                  | Propositional Logic|  
+01/08       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pptx)]
+01/13       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pptx)] 
+01/15       |                  | Propositional Logic |  
+01/20       |                  | No Class |  
+01/22       |                  | Puzzles and Propositional Equivalence [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_4.prop-equiv.pptx)]|  
+
+### Schedule - Section B
+
+Date        | Chapter          | Topic             | Slides       
+----------- | -----------      | -----------       | -----------  
+01/09       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_1.intro.pptx)]
+01/14       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_2.prop-logic.pptx)] 
+01/16       |                  | Propositional Logic|  
+01/21       |                  | Puzzles and Propositional Equivalence [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_4.prop-equiv.pptx)]|  
+01/23       |                  | Predicates and Quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_5.predicates.pptx)] |  
