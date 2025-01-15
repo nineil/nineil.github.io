@@ -17,7 +17,7 @@ Date        | Chapter      | Slides       | Homework
 ----------- | -----------  | -----------  | -----------
 01/08       | Intro        | Intro_course [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_1.intro_course.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_1.intro_course.pptx)]<br> Supp: Linear_algebra [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/supp.lec_1.linear_algebra.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/supp.lec_1.linear_algebra.pptx)]             |
 01/13       |              | Intro_cv [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_2.intro_cv.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_2.intro_cv.pptx)]              |
-01/15       |              | Filters and Texture [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_3.filters.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_3.filters.pptx)]              |
+01/15       | Low-level Vision | Filters and Texture [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_3.filters.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_3.filters.pptx)]              |
 01/20       |              | No Class              |
 01/22       |              | Filters and Texture   |
 
