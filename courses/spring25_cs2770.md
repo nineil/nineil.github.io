@@ -6,9 +6,8 @@
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "[CS 2770]" at the beginning of the subject line)<br>
 **Instructor's office hours:** Monday, 11am - 1pm and Tueday, 9am-11am<br>
 **Instructor's office:** Sennott Square 5419<br>
-**TA:** TBD<br>
-**TA's office hours:** TBD<br>
-**TA's office:** TBD<br>
+**TA:** Cagri Gungor ( cagri.gungor AT pitt DOT edu )<br>
+**TA's office hours:** Wed 12-2 pm @ <a href="https://pitt.zoom.us/j/5098169252">zoom</a>, Th 4-5pm @ SENSQ 5501<br>
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule
