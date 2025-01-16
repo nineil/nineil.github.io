@@ -28,6 +28,10 @@ Ajay Ohm ( aao59 AT pitt DOT edu)<br>
 Office: SENSQ 6503<br>
 Office Hours: Tue 4-7pm<br>
 
+Cameron Frencho ( crf69 AT pitt DOT edu )<br>
+Office: SENSQ 6508<br>
+Office Hours: Tue 4-5:30pm, Fri 12-1:30pm<br>
+
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule - Section A
