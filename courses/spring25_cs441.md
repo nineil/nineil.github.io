@@ -16,7 +16,7 @@ Office: SENSQ 6414<br>
 Office Hours: Tue 1-2 pm, Th 12-1pm, Fri 10-11am<br>
 
 Xin Jin ( xij90 AT pitt DOT edu )<br>
-Office: SENSQ 5504<br>
+Office: SENSQ 5422<br>
 Office Hours: Th 2-5 pm<br>
 <br>**Recitation**<br>
 Adelle Melnikov ( ADM259 AT pitt DOT edu )<br>
