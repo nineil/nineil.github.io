@@ -54,6 +54,8 @@ Date        | Chapter          | Topic             | Slides
 01/29       |                  | Nested Quantifiers | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_6.nested-quantifiers.pptx)]
 02/03       |                  | Rules of Inference | lec_7.rules-of-inference [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_7.rules-of-inference.pptx)]
 02/05       |                  | Informal Proofs | lec_8.informal-proofs [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pptx)]
+02/10       |                  | Proof Methods | lec_9.proof-methods [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pptx)]
+02/12       |	Basic Structures | Sets | lec_10.sets [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pptx)]
 
 ### Schedule - Section B
 
@@ -68,4 +70,6 @@ Date        | Chapter          | Topic             | Slides
 01/30       |                  | Rules of Inferences | lec_7.rules-of-inference [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_7.rules-of-inference.pptx)]
 02/04       |                  | Informal Proofs | lec_8.informal-proofs [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pptx)]
 02/06       |                  | Proof Methods | lec_9.proof-methods [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pptx)]
+02/11       |	Basic Structures | Sets | lec_10.sets [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pptx)]
+02/13       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
 
