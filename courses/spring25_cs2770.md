@@ -23,3 +23,5 @@ Date        | Chapter      | Slides       | Homework
 01/29       |              | Grouping [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_5.grouping.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_5.grouping.pptx)]              |
 02/03       | High-level Vision | Intro to Recognition [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_6.recognition.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_6.recognition.pptx)]              |
 02/05       |              | Intro to Recognition               |
+02/10       |              | Convolutional Neural Networks [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_7.cnns.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_7.cnns.pptx)]              |
+02/12       |              | Convolutional Neural Networks               |
