@@ -56,6 +56,8 @@ Date        | Chapter          | Topic             | Slides
 02/05       |                  | Informal Proofs | lec_8.informal-proofs [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_8.informal-proofs.pptx)]
 02/10       |                  | Proof Methods | lec_9.proof-methods [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pptx)]
 02/12       |	Basic Structures | Sets | lec_10.sets [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pptx)]
+02/17       |                  | Exam 1 Review | 
+02/19       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
 
 ### Schedule - Section B
 
@@ -72,4 +74,6 @@ Date        | Chapter          | Topic             | Slides
 02/06       |                  | Proof Methods | lec_9.proof-methods [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_9.proof-methods.pptx)]
 02/11       |	Basic Structures | Sets | lec_10.sets [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pptx)]
 02/13       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
+02/18       |                  | Exam 1 Review | 
+02/20       |                  | Functions | lec_12.functions [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pptx)]
 
