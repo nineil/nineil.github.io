@@ -58,6 +58,8 @@ Date        | Chapter          | Topic             | Slides
 02/12       |	Basic Structures | Sets | lec_10.sets [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_10.sets.pptx)]
 02/17       |                  | Exam 1 Review | 
 02/19       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
+02/24       |                  | Functions | lec_12.functions [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pptx)]
+02/26       |                  | Exam 1 | 
 
 ### Schedule - Section B
 
@@ -76,4 +78,5 @@ Date        | Chapter          | Topic             | Slides
 02/13       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
 02/18       |                  | Exam 1 Review | 
 02/20       |                  | Functions | lec_12.functions [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pptx)]
-
+02/25       |                  | Exam 1 | 
+02/27       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
