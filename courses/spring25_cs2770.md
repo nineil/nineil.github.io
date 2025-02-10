@@ -27,3 +27,5 @@ Date        | Chapter      | Slides       | Homework
 02/12       |              | Convolutional Neural Networks               |
 02/17       |              | Convolutional Neural Networks               |
 02/19       |              | Object Recognition [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pdf.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pdf.pptx)]              | 
+02/24       |              | Object Recognition               | 
+02/26       |              | Exam 1               | 
