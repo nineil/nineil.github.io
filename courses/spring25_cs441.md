@@ -62,8 +62,8 @@ Date        | Chapter          | Topic             | Slides
 02/26       |                  | Exam 1 | 
 03/03       |                  | No Class. Spring Break | 
 03/05       |                  | No Class. Spring Break | 
-03/10       |                  | Exam 1 - Feedback | 
-03/12       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
+03/10       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
+03/12       |                  | Exam 1 - Feedback | 
 
 ### Schedule - Section B
 
