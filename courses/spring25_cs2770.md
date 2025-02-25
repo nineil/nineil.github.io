@@ -26,6 +26,10 @@ Date        | Chapter      | Slides       | Homework
 02/10       |              | Convolutional Neural Networks [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_7.cnns.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_7.cnns.pptx)]              | A2 on canvas
 02/12       |              | Convolutional Neural Networks               |
 02/17       |              | Convolutional Neural Networks               |
-02/19       |              | Object Recognition [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pptx)]              | 
+02/19       |              | Object Recognition and Image Segmentation [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_8.objrec.pptx)]              | 
 02/24       |              | Exam 1               | 
 02/26       |              | No Class. Please, work on your project proposal and assignments. | 
+03/03       |              | No Class. Spring Break. | 
+03/05       |              | No Class. Spring Break. | 
+03/10       |              | Object Recognition and Image Segmentation | 
+03/12       |              | Object Recognition and Image Segmentation | 
