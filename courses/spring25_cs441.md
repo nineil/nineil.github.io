@@ -60,6 +60,10 @@ Date        | Chapter          | Topic             | Slides
 02/19       |                  | Set Identities | lec_11.set-identities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_11.set-identities.pptx)]
 02/24       |                  | Functions | lec_12.functions [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pptx)]
 02/26       |                  | Exam 1 | 
+03/03       |                  | No Class. Spring Break | 
+03/05       |                  | No Class. Spring Break | 
+03/10       |                  | Exam 1 - Feedback | 
+03/12       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
 
 ### Schedule - Section B
 
@@ -80,3 +84,7 @@ Date        | Chapter          | Topic             | Slides
 02/20       |                  | Functions | lec_12.functions [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_12.functions.pptx)]
 02/25       |                  | Exam 1 | 
 02/27       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
+03/04       |                  | No Class. Spring Break | 
+03/06       |                  | No Class. Spring Break | 
+03/11       |                  | Exam 1 - Feedback | 
+03/13       |                  | Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
