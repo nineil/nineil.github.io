@@ -33,3 +33,5 @@ Date        | Chapter      | Slides       | Homework
 03/05       |              | No Class. Spring Break. | 
 03/10       |              | Object Recognition and Image Segmentation | 
 03/12       |              | Object Recognition and Image Segmentation | 
+03/17       |              | Sequential Data [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_9.sequences.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_9.sequences.pptx)] | 
+03/19       |              | Sequential Data | 
