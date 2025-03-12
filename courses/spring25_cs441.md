@@ -63,9 +63,9 @@ Date        | Chapter          | Topic             | Slides
 03/03       |                  | No Class. Spring Break | 
 03/05       |                  | No Class. Spring Break | 
 03/10       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
-03/12       |                  | Exam 1 - Feedback | 
-03/17       |                  | Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
-03/19       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
+03/12       |                  | Exam 1 - Feedback<br>Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
+03/17       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
+03/19       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
 
 ### Schedule - Section B
 
@@ -88,7 +88,7 @@ Date        | Chapter          | Topic             | Slides
 02/27       |                  | Sequences and Summation | lec_13.sequences-summations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_13.sequences-summations.pptx)]
 03/04       |                  | No Class. Spring Break | 
 03/06       |                  | No Class. Spring Break | 
-03/11       |                  | Exam 1 - Feedback | 
-03/13       |                  | Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
-03/18       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
+03/11       |                  | Exam 1 - Feedback<br>Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
+03/13       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
+03/18       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
 03/20       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
