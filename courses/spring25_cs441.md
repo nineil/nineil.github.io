@@ -66,6 +66,8 @@ Date        | Chapter          | Topic             | Slides
 03/12       |                  | Exam 1 - Feedback<br>Infinite Cardinalities | lec_14.infinite-cardinalities [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_14.infinite-cardinalities.pptx)]
 03/17       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
 03/19       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
+03/24       |                  | Complexity   | lec_17.complexity [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pptx)]
+03/26       | Number theory and Cryptography | Divisibility   | lec_18.divisibility [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pptx)]
 
 ### Schedule - Section B
 
@@ -92,3 +94,5 @@ Date        | Chapter          | Topic             | Slides
 03/13       | Algorithms       | Algorithms | lec_15.algorithms [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_15.algorithms.pptx)]
 03/18       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
 03/20       |                  | Complexity   | lec_17.complexity [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pptx)]
+03/25       | Number theory and Cryptography | Divisibility   | lec_18.divisibility [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pptx)]
+03/27       |                  | Integer Representations   | lec_19.integer-representations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pptx)]
