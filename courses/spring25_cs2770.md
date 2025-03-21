@@ -36,4 +36,4 @@ Date        | Chapter      | Slides       | Homework
 03/17       |              | Sequential Data [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_9.sequences.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_9.sequences.pptx)] | 
 03/19       |              | Sequential Data | 
 03/24       |              | Sequential Data | 
-03/26       |              | Generative Models [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pptx)] | 
+03/26       |              | Generative Models [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pptx)] |  A4 on canvas
