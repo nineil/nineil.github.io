@@ -68,6 +68,8 @@ Date        | Chapter          | Topic             | Slides
 03/19       |                  | Growth Rates | lec_16.growth-rates [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_16.growth-rates.pptx)]
 03/24       |                  | Complexity   | lec_17.complexity [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pptx)]
 03/26       | Number theory and Cryptography | Divisibility   | lec_18.divisibility [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pptx)]
+03/31       |                  | Integer Representations   | lec_19.integer-representations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pptx)]
+04/02       |                  | Primes   | lec_20.primes [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pptx)]
 
 ### Schedule - Section B
 
@@ -96,3 +98,5 @@ Date        | Chapter          | Topic             | Slides
 03/20       |                  | Complexity   | lec_17.complexity [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_17.complexity.pptx)]
 03/25       | Number theory and Cryptography | Divisibility   | lec_18.divisibility [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pptx)]
 03/27       |                  | Integer Representations   | lec_19.integer-representations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pptx)]
+04/01       |                  | Primes   | lec_20.primes [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pptx)]
+04/03       |                  | Congruences   | lec_21.congruences [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pptx)]
