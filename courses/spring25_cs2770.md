@@ -39,3 +39,5 @@ Date        | Chapter      | Slides       | Homework
 03/26       |              | Generative Models [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_10.gen_models.pptx)] |  A4 on canvas
 03/31       |              | Project Development  |  
 04/02       |              | Generative Models  | 
+04/07       |              | Conditional Generative Models  | 
+04/09       |              | Conditional Generative Models  | 
