@@ -41,3 +41,9 @@ Date        | Chapter      | Slides       | Homework
 04/02       |              | Generative Models  | 
 04/07       |              | Conditional Generative Models  | 
 04/09       |              | Conditional Generative Models  | 
+04/14       |              | ...  | 
+04/16       |              | ...  | 
+04/21       |              | Guest Lecture  | 
+04/23       |              | ...  | 
+04/28       |              | Project Presentations  | 
+04/30       |              | Project Presentations  | 
