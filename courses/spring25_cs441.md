@@ -70,6 +70,8 @@ Date        | Chapter          | Topic             | Slides
 03/26       | Number theory and Cryptography | Divisibility   | lec_18.divisibility [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_18.divisibility.pptx)]
 03/31       |                  | Integer Representations   | lec_19.integer-representations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pptx)]
 04/02       |                  | Primes   | lec_20.primes [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pptx)]
+04/07       |                  | Congruences   | lec_21.congruences [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pptx)]
+04/09       |                  | Cryptography   | lec_22.cryptography [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pptx)]
 
 ### Schedule - Section B
 
@@ -100,3 +102,5 @@ Date        | Chapter          | Topic             | Slides
 03/27       |                  | Integer Representations   | lec_19.integer-representations [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_19.integer-representations.pptx)]
 04/01       |                  | Primes   | lec_20.primes [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pptx)]
 04/03       |                  | Congruences   | lec_21.congruences [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pptx)]
+04/08       |                  | Cryptography   | lec_22.cryptography [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pptx)]
+04/10       |                  | Induction   | lec_23.induction [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pptx)]
