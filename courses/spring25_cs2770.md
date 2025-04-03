@@ -40,7 +40,7 @@ Date        | Chapter      | Slides       | Homework
 03/31       |              | Project Development  |  
 04/02       |              | Generative Models  | 
 04/07       |              | Conditional Generative Models [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_11.cond_gen_models.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_11.cond_gen_models.pptx)] | 
-04/09       |              | Conditional Generative Models  | 
+04/09       |              | Conditional Generative Models  | A5 on canvas
 04/14       |              | ...  | 
 04/16       |              | ...  | 
 04/21       |              | Guest Lecture  | 
