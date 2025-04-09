@@ -72,7 +72,9 @@ Date        | Chapter          | Topic             | Slides
 04/02       |                  | Primes   | lec_20.primes [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_20.primes.pptx)]
 04/07       |                  | Congruences   | lec_21.congruences [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pptx)]
 04/09       |                  | Cryptography   | lec_22.cryptography [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pptx)]
-04/xy       |                  | ...   | ...
+04/14       |                  | Induction   | lec_23.induction [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pptx)]
+04/16       |                  | Exam 2 Review   | 
+04/21       |                  | Exam 2 Review   | 
 04/24       |                  | Exam 2 –> 12 pm - 1:50 pm @ SENSQ 5502   |
 
 ### Schedule - Section B
@@ -106,5 +108,7 @@ Date        | Chapter          | Topic             | Slides
 04/03       |                  | Congruences   | lec_21.congruences [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_21.congruences.pptx)]
 04/08       |                  | Cryptography   | lec_22.cryptography [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_22.cryptography.pptx)]
 04/10       |                  | Induction   | lec_23.induction [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs441/lec_23.induction.pptx)]
-04/xy       |                  | ...   | ...
+04/15       |                  | Induction   | 
+04/17       |                  | Exam 2 Review   | 
+04/22       |                  | Exam 2 Review   | 
 04/29       |                  | Exam 2 –> 4 pm - 5:50 pm @ SENSQ 5502   |
