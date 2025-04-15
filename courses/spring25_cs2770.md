@@ -43,7 +43,7 @@ Date        | Chapter      | Slides       | Homework
 04/09       |              | Conditional Generative Models  | A5 on canvas
 04/14       |              | Large Language Models [[pdf](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_12.large_lang_models.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring25_cs2770/lec_12.large_lang_models.pptx)]  | 
 04/16       |              | Multimodal Large Language Models  | 
-04/21       |              | Guest Lecture  | 
+04/21       |              | Guest Lecture: Unlocking Compositional Reasoning through Vision-Language Models<br><a href="https://paolacascante.com/">Paola Cascante-Bonilla</a>, Research Assistant Professor @ Stony Brook University.  | 
 04/23       |              | Retrieval Augmented Generation (RAG) for LLMs  | 
 04/28       |              | Project Presentations  | 
 04/30       |              | Project Presentations  | 
