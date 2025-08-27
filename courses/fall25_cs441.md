@@ -12,7 +12,9 @@ layout: page
 **Teaching Assistants**<br>
 **[Grader]** TBA <br>
 
-**[Recitation]** TBA <br>
+**[Recitation]**<br>
+Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
+Office Hours: Mon 3-6pm @ SENSQ 5804<br>
 
 **Canvas:** used for announcements and assignment submission<br>
 
