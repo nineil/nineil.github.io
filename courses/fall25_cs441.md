@@ -19,7 +19,7 @@ Office Hours: Mon 1:30-4:30pm @ IS 410<br>
 
 **[Recitation]**<br>
 Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
-Office Hours: Mon 3-6pm @ SENSQ 5804<br>
+Office Hours: Wed 4:30-7:30pm @ SENSQ 5806<br>
 
 Daniel Otto-Manzano ( dlo21 AT pitt DOT edu )<br>
 Office Hours: Mond/Wed 10:30-11:45 am @  SENSQ 5806, and Th 3:50-4:20pm @ IS 838<br>
