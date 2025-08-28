@@ -26,7 +26,10 @@ Office Hours: Mon 4:30-6pm @ SENSQ 5806 and Tue 11-12:30pm @ SENSQ 5806<br>
 
 ### Schedule
 
-Date        | Chapter          | Topic             | Slides       
------------ | -----------      | -----------       | -----------  
-08/25       | The Foundations  | Introduction      | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_1.intro.pptx)]
-08/27       |                  | Propositional Logic| lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pptx)]              
+Date        | Chapter          | Topic               | Slides       
+----------- | -----------      |---------------------| -----------  
+08/25       | The Foundations  | Introduction        | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_1.intro.pptx)]
+08/27       |                  | Propositional Logic | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pptx)]
+09/01       |                  | Labor Day: No class |
+09/03       |                  | Propositional Logic |
+
