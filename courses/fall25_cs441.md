@@ -14,6 +14,9 @@ layout: page
 Junqi Wang ( juw188 AT pitt DOT edu )<br>
 Office Hours: Mon 1-3pm @ SENSQ 5422 and Tue 1:30-2:30pm @ SENSQ 5422<br>
 
+Peilin He ( peh53 AT pitt DOT edu )<br>
+Office Hours: Mon 1:30-4:30pm @ IS 410<br>
+
 **[Recitation]**<br>
 Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
 Office Hours: Mon 3-6pm @ SENSQ 5804<br>
