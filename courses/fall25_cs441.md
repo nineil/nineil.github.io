@@ -10,7 +10,9 @@ layout: page
 **Instructor's office hours:** Tue 9:30-11:30 am and Th 4:00-5:00pm<br>
 **Instructor's office:** SENSQ 5419<br>
 **Teaching Assistants**<br>
-**[Grader]** TBA <br>
+**[Grader]**<br>
+Junqi Wang ( juw188 AT pitt DOT edu )<br>
+Office Hours: Mon 1-3pm @ SENSQ 5422 and Tue 1:30-2:30pm @ SENSQ 5422<br>
 
 **[Recitation]**<br>
 Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
