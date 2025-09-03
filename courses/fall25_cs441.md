@@ -30,6 +30,9 @@ Office Hours: Mon 4:30-6pm @ SENSQ 5806 and Tue 11-12:30pm @ SENSQ 5806<br>
 Isabelle Vazapphilly ( ijv4 AT pitt DOT edu )<br>
 Office Hours: Tue/Th 2:30-4pm @ SENSQ 5804<br>
 
+John Onubogu ( jco48 AT pitt DOT edu )<br>
+Office Hours: Mon/Wed 1-2:30pm @ SENSQ 6508 and Tue 2:30-3:30pm on [Zoom](https://pitt.zoom.us/j/92330923739)<br>
+
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule
