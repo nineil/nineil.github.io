@@ -43,4 +43,6 @@ Date        | Chapter          | Topic               | Slides
 08/27       |                  | Propositional Logic | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_2.prop-logic.pptx)]
 09/01       |                  | Labor Day: No class |
 09/03       |                  | Propositional Logic |
+09/08       |                  | Puzzles and Propositional Equivalence | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_4.prop-equiv.pptx)]
+09/10       |                  | Predicates and Quantifiers | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_5.predicates.pptx)]
 
