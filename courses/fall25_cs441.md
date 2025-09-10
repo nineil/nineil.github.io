@@ -34,7 +34,7 @@ John Onubogu ( jco48 AT pitt DOT edu )<br>
 Office Hours: Mon/Wed 1-2:30pm @ SENSQ 6508 and Tue 2:30-3:30pm on [Zoom](https://pitt.zoom.us/j/92330923739)<br>
 
 **Canvas:** used for announcements and assignment submission<br>
-
+    
 ### Schedule
 
 Date        | Chapter          | Topic               | Slides       
@@ -45,4 +45,5 @@ Date        | Chapter          | Topic               | Slides
 09/03       |                  | Propositional Logic |
 09/08       |                  | Puzzles and Propositional Equivalence | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_4.prop-equiv.pptx)]
 09/10       |                  | Predicates and Quantifiers | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_5.predicates.pptx)]
-
+09/15       |                  | Nested Quantifiers                   | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_6.nested-quantifiers.pptx)]  
+09/17       |                  | Rules of Inference                   |  lec_7.rules-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_7.rules-of-inference.pptx)]
