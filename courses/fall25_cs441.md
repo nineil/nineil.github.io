@@ -53,3 +53,5 @@ Date        | Chapter          | Topic               | Slides
 10/01       |                  | Set Identities     |  lec_11.set-identities  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_11.set-identities.pptx)]
 10/06       |                  | Exam 1 Review      |  
 10/08       |                  | Functions          |  lec_12.functions  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_12.functions.pptx)]
+10/13       |                  | Exam 1             |  
+10/15       |                  | Sequences and Summation                   |  lec_13.sequences-summations  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_13.sequences-summations.pptx)]
