@@ -63,6 +63,8 @@ Date        | Chapter          | Topic                                          
 11/05       |                  | Integer Representations                          |  lec_19.integer-representations  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_19.integer-representations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_19.integer-representations.pptx)]
 11/10       |                  | Primes                                           |  lec_20.primes  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_20.primes.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_20.primes.pptx)]
 11/12       |                  | Congruences                                      |  lec_21.congruences  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_21.congruences.pptx)]
+11/17       |                  | Cryptography                   |  lec_22.cryptography  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_22.cryptography.pptx)]
+11/19       |                  | Induction                   |  lec_23.induction  [[pdf](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall25_cs441/lec_23.induction.pptx)]
 ...       |                  |                                                  |
 12/09       |                  | Exam 2 –> Section B, 4pm - 5:50pm @ IS 404       |
 12/10       |                  | Exam 2 –> Section A, 10am - 11:50am @ SENSQ 5502 |
