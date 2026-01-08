@@ -2,6 +2,10 @@
 layout: page
 ---
 
+**Spring 2026**
+* CS 2770: Computer Vision [[`link`](../courses/spring26_cs2770/)]
+* CS 441: Discrete Structures for Computer Science [[`link`](../courses/spring26_cs441/)]
+
 **Fall 2025**
 * CS 1674/2074: Intro to Computer Vision [[`link`](../courses/fall25_cs1674/)]
 * CS 441: Discrete Structures for Computer Science [[`link`](../courses/fall25_cs441/)]
