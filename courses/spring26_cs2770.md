@@ -1,7 +1,7 @@
 
-**CS2770: Computer Vision, <Semester> <Year>**
+**CS2770: Computer Vision, Spring 2026**
 
-**Location (class):** IS 405<br>
+**Location (class):** SENSQ 5313<br>
 **Class time:** Monday and Wednesday, 9:30am - 10:45am<br>
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "[CS 2770]" at the beginning of the subject line)<br>
 **Instructor's office hours:** TBD<br>
