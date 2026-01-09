@@ -20,5 +20,5 @@ Office Hours: Time @ Location<br>
 
 Date        | Chapter          | Topic                                            | Slides       
 ----------- | -----------      |--------------------------------------------------| -----------  
-01/13       | The Foundations  | Introduction                                     | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spring26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spring26_cs441/lec_1.intro.pptx)]
-01/15       |                  | Propositional Logic                              | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spring26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spring26_cs441/lec_2.prop-logic.pptx)]
+01/13       | The Foundations  | Introduction                                     | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pptx)]
+01/15       |                  | Propositional Logic                              | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pptx)]
