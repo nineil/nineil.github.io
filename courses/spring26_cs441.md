@@ -22,3 +22,5 @@ Date        | Chapter          | Topic                                          
 ----------- | -----------      |--------------------------------------------------| -----------  
 01/13       | The Foundations  | Introduction                                     | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pptx)]
 01/15       |                  | Propositional Logic                              | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pptx)]
+01/20       |                  | Propositional Logic                              |
+01/22       |                  | Puzzles and Propositional Equivalence            | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pptx)]
