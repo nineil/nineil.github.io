@@ -4,7 +4,7 @@
 **Location (class):** SENSQ 5313<br>
 **Class time:** Monday and Wednesday, 9:30am - 10:45am<br>
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "[CS 2770]" at the beginning of the subject line)<br>
-**Instructor's office hours:** Mon 2pm - 3:30pm and Thu 11am-12:30pm  <br>
+**Instructor's student hours:** Mon 2pm - 3:30pm and Thu 11am-12:30pm  <br>
 **Instructor's office:** Sennott Square 5419<br>
 **TA:** TA ( email AT pitt DOT edu )<br>
 **TA's office hours:** Time @ Location<br>
