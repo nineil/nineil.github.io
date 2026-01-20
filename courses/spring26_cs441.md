@@ -8,10 +8,10 @@
 **Teaching Assistants**<br>
 **[Grader]**<br>
 Junqi Wang ( juw188 AT pitt DOT edu )<br>
-Office Hours: Tue/Thu 2:30-4pm @ SENSQ 5422<br>
+Student Hours: Tue/Thu 2:30-4pm @ SENSQ 5422<br>
 
 Yingda Fan ( YingdaFan AT pitt DOT edu )<br>
-Office Hours: Fri 12-3pm @ SENSQ 5802<br>
+Student Hours: Fri 12-3pm @ SENSQ 5802<br>
 
 **[Recitation]**<br>
 Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
