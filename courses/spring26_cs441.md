@@ -15,22 +15,22 @@ Office Hours: Fri 12-3pm @ SENSQ 5802<br>
 
 **[Recitation]**<br>
 Rebekka Hubrich ( rjh152 AT pitt DOT edu )<br>
-Office Hours: Tue 2:30-4pm and Wed 2:15-3:45pm @ SENSQ 5804 / [zoom](https://pitt.zoom.us/s/94905741822#success)<br>
+Student Hours: Tue 2:30-4pm and Wed 2:15-3:45pm @ SENSQ 5804 / [zoom](https://pitt.zoom.us/s/94905741822#success)<br>
 
 Anthony Arshoun ( aja138 AT pitt DOT edu )<br>
-Office Hours: Mond 1-2pm, Wed 1-2pm and Wed 3-4pm @ SENSQ 5804<br>
+Student Hours: Mond 1-2pm, Wed 1-2pm and Wed 3-4pm @ SENSQ 5804<br>
 
 Peter Ju  ( zij15 AT pitt DOT edu )<br>
-Office Hours: Thu 9am-12pm @ IS 2A11<br>
+Student Hours: Thu 9am-12pm @ IS 2A11<br>
 
 Isabelle Vazapphilly ( ijv4 AT pitt DOT edu )<br>
-Office Hours: Tue 2:15-3:45pm @ SENSQ 5806 and Thu 2:15-3:45pm @ SENSQ 5804<br>
+Student Hours: Tue 2:15-3:45pm @ SENSQ 5806 and Thu 2:15-3:45pm @ SENSQ 5804<br>
 
 Astalaxmi Dhanaseelan ( asd153 AT pitt DOT edu )<br>
-Office Hours: Fri 12-1pm @ SENSQ 5804 and Fri 2-4pm on [Zoom](https://us05web.zoom.us/j/86770231936?pwd=S38ocu0jc0fBTOC0A590Rx5NB9AIYZ.1)<br>
+Student Hours: Fri 12-1pm @ SENSQ 5804 and Fri 2-4pm on [Zoom](https://us05web.zoom.us/j/86770231936?pwd=S38ocu0jc0fBTOC0A590Rx5NB9AIYZ.1)<br>
 
 Avi Kottakota ( akk119 AT pitt DOT edu )<br>
-Office Hours: Mon/Wed 3-5pm @ SENSQ 5806<br>
+Student Hours: Mon/Wed 3-5pm @ SENSQ 5806<br>
 
 **Canvas:** used for announcements and assignment submission<br>
     

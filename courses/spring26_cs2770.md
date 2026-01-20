@@ -7,7 +7,7 @@
 **Instructor's student hours:** Mon 2pm - 3:30pm and Thu 11am-12:30pm  <br>
 **Instructor's office:** Sennott Square 5419<br>
 **TA:** TA ( email AT pitt DOT edu )<br>
-**TA's office hours:** Time @ Location<br>
+**TA's student hours:** Time @ Location<br>
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule
