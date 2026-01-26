@@ -6,8 +6,8 @@
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "[CS 2770]" at the beginning of the subject line)<br>
 **Instructor's student hours:** Mon 2pm - 3:30pm and Thu 11am-12:30pm  <br>
 **Instructor's office:** Sennott Square 5419<br>
-**TA:** TA ( email AT pitt DOT edu )<br>
-**TA's student hours:** Time @ Location<br>
+**TA:** Haoqing Yang ( hay149 AT pitt DOT edu )<br>
+**TA's student hours:** Tue 3-4pm @ SENSQ 6514 and Wed 2-4pm @ [zoom](https://pitt.zoom.us/j/4249654494)<br>
 **Canvas:** used for announcements and assignment submission<br>
 
 ### Schedule
