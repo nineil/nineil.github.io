@@ -36,15 +36,19 @@ Student Hours: Mon/Wed 3-5pm @ SENSQ 5806<br>
     
 ### Schedule
 
-Date        | Chapter          | Topic                                            | Slides       
------------ | -----------      |--------------------------------------------------| -----------  
-01/13       | The Foundations  | Introduction                                     | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pptx)]
-01/15       |                  | Propositional Logic                              | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pptx)]
-01/20       |                  | Propositional Logic                              |
-01/22       |                  | Puzzles and Propositional Equivalence            | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pptx)]
-01/27       |                  | Predicates and Quantifiers                       | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_5.predicates.pptx)]
-01/29       |                  | Nested Quantifiers                               | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_6.nested-quantifiers.pptx)]
-02/03       |                  | Rules of Inference                               |  lec_7.rules-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_7.rules-of-inference.pptx)]
-02/05       |                  | Informal Proofs                                  |  lec_8.informal-proofs  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_8.informal-proofs.pptx)]
-02/10       |                  | Proof Methods                                    |  lec_9.proof-methods  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_9.proof-methods.pptx)]
-02/12       | Basic Structures | Sets                                             |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_10.sets.pptx)]
+Date        | Chapter          | Topic                                 | Slides       
+----------- | -----------      |---------------------------------------| -----------  
+01/13       | The Foundations  | Introduction                          | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pptx)]
+01/15       |                  | Propositional Logic                   | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_2.prop-logic.pptx)]
+01/20       |                  | Propositional Logic                   |
+01/22       |                  | Puzzles and Propositional Equivalence | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_4.prop-equiv.pptx)]
+01/27       |                  | Predicates and Quantifiers            | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_5.predicates.pptx)]
+01/29       |                  | Nested Quantifiers                    | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_6.nested-quantifiers.pptx)]
+02/03       |                  | Rules of Inference                    |  lec_7.rules-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_7.rules-of-inference.pptx)]
+02/05       |                  | Informal Proofs                       |  lec_8.informal-proofs  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_8.informal-proofs.pptx)]
+02/10       |                  | Proof Methods                         |  lec_9.proof-methods  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_9.proof-methods.pptx)]
+02/12       | Basic Structures | Sets                                  |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_10.sets.pptx)]
+02/17       |                  | Set Identities                        |  lec_11.set-identities  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_11.set-identities.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_11.set-identities.pptx)]
+02/19       |                  | 'Muddiest' Points                     |  
+
+
