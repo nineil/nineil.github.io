@@ -54,5 +54,5 @@ Date        | Chapter          | Topic                                 | Slides
 02/26       |                  | Functions                             | lec_12.functions  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_12.functions.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_12.functions.pptx)]
 03/03       |                  | Exam 1                                |  
 03/05       |                  | Sequences and Summation               |  lec_13.sequences-summations  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_13.sequences-summations.pptx)]
-03/10       |                  | No Class. Spring Break                | 
-03/12       |                  | No Class. Spring Break                | 
+03/10       |                  | Spring Break: No Class                | 
+03/12       |                  | Spring Break: No Class                | 
