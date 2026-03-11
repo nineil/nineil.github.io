@@ -56,3 +56,5 @@ Date        | Chapter          | Topic                                 | Slides
 03/05       |                  | Sequences and Summation               |  lec_13.sequences-summations  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_13.sequences-summations.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_13.sequences-summations.pptx)]
 03/10       |                  | Spring Break: No Class                | 
 03/12       |                  | Spring Break: No Class                | 
+03/17       |                  | Exam 1 Feedback                       |  
+03/19       | Algorithms       | Algorithms                            |  lec_15.algorithms  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_15.algorithms.pptx)]
