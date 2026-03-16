@@ -58,3 +58,5 @@ Date        | Chapter          | Topic                                 | Slides
 03/12       |                  | Spring Break: No Class                | 
 03/17       |                  | Exam 1 Feedback                       |  
 03/19       | Algorithms       | Algorithms                            |  lec_15.algorithms  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_15.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_15.algorithms.pptx)]
+03/24       |                  | Growth Rates                          |  lec_16.growth-rates  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_16.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_16.growth-rates.pptx)]
+03/26       |                  | Complexity                            |  lec_17.complexity  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_17.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_17.complexity.pptx)]
