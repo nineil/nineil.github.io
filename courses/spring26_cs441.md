@@ -66,6 +66,7 @@ Date        | Chapter          | Topic                                          
 04/09       |                  | Congruences                                    |  lec_21.congruences  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_21.congruences.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_21.congruences.pptx)]
 04/14       |                  | Cryptography                                   |  lec_22.cryptography  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_22.cryptography.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_22.cryptography.pptx)]
 04/16       |                  | Induction                                      |  lec_23.induction  [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_23.induction.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_23.induction.pptx)]
-...| |                                                | 
+04/21       |                  | 'Muddiest' Points                              |  
+04/23       |                  | Exam 2 Review                                  |  
 04/29       |                  | Exam 2 –> Section A, 12pm - 1:50pm @ IS 403    |
 05/01       |                  | Exam 2 –> Section B, 4pm - 5:50pm @ SENSQ 5502 |
