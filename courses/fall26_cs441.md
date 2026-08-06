@@ -1,4 +1,4 @@
-**CS441: Discrete Structures for Computer Science, Spring 2026**
+**CS441: Discrete Structures for Computer Science, Fall 2026**
 
 **Location (class):** SENSQ 5502<br>
 **Class time:** Tue/Thu, 11:00 am- 12:15pm<br>
@@ -7,7 +7,7 @@
 **Instructor's office:** SENSQ 5419<br>
 **Teaching Assistants**<br>
 TBA
-<!-- This is a comment and will only be visible in the raw edit mode -->
+
 **[Grader]**<br>
 Junqi Wang ( juw188 AT pitt DOT edu )<br>
 Student Hours: Tue/Thu 2:30-4pm @ SENSQ 5422<br>
@@ -37,7 +37,6 @@ Student Hours: Mon/Wed 3-5pm @ SENSQ 5806<br>
 **Canvas:** used for announcements and assignment submission<br>
     
 ### Schedule
-<!-- This is a comment and will only be visible in the raw edit mode -->
 Date        | Chapter          | Topic                                          | Slides       
 ----------- | -----------      |------------------------------------------------| -----------  
 01/13       | The Foundations  | Introduction                                   | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/spri26_cs441/lec_1.intro.pptx)]
