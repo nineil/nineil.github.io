@@ -6,7 +6,6 @@
 **Instructor's student hours:** TBA<br>
 **Instructor's office:** SENSQ 5419<br>
 **Teaching Assistants**<br>
-TBA<br>
 
 **[Grader]**<br>
 TBA<br>
