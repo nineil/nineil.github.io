@@ -15,8 +15,3 @@ TA ( email AT pitt DOT edu )<br>
 Office Hours: Time @ Location<br>
 
 **Canvas:** used for announcements and assignment submission<br>
-    
-### Schedule
-
-Date        | Chapter          | Topic                                            | Slides       
------------ | -----------      |--------------------------------------------------| -----------  
