@@ -17,6 +17,7 @@ TBA<br>
 **Canvas:** used for announcements and assignment submission<br>
     
 ### Schedule
+
 Date        | Chapter          | Topic                                          | Slides       
 ----------- | -----------      |------------------------------------------------| -----------  
 08/25       | The Foundations  | Introduction                                   | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pptx)]
