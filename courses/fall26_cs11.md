@@ -14,4 +14,4 @@ Office Hours: Time @ Location<br>
 TA ( email AT pitt DOT edu )<br>
 Office Hours: Time @ Location<br>
 
-**Canvas:** used for announcements and assignment submission<br>
+Course material is available in **Canvas**.<br>
