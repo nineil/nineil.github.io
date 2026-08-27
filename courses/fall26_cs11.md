@@ -3,7 +3,7 @@
 **Location (class):** SENSQ 5502<br>
 **Class time:** Tue/Thu, 1:00 - 2:15pm<br>
 **Instructor:** Nils Murrugarra (email: nem177 AT pitt DOT edu; use "[CS 11]" at the beginning of the subject line)<br>
-**Instructor's student hours:** Mon 10:30am - 12pm and Thu 2:30-4pm<br>
+**Instructor's student hours:** Mon 10:30am - 12pm and Thu 2:45-4:15pm<br>
 **Instructor's office:** SENSQ 5419<br>
 **Teaching Assistants**<br>
 **[Grader]**<br>
