@@ -14,7 +14,7 @@ TBA<br>
 Emily Rojas ( esr107 AT pitt DOT edu )<br>
 Student Hours: Tue 4-6pm and Wed 4-5pm @ SENSQ 5804<br>
 
-Kylie Phillips ( kep208 pitt DOT edu )<br>
+Kylie Phillips ( kep208 AT pitt DOT edu )<br>
 Student Hours: Mon 11:45am-2:45pm @ IS 2A11<br>
 
 **Canvas:** used for announcements and assignment submission<br>
