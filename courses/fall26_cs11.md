@@ -10,7 +10,7 @@
 Fengyi Gao ( feg48 AT pitt DOT edu )<br>
 Student Hours: Mon 10am-1pm @ SHRS 4102B - Fifth and Halket, 3396 Fifth Ave, Pittsburgh, PA 15213<br>
 
-**[Recitation/Lab]**<br>
+**[Lab TAs]**<br>
 Joshua Packett ( jpp88 AT pitt DOT edu )<br>
 Student Hours: Mon 12:30-2:30pm and Fri 2-3pm @ SENSQ 6503<br>
 
