@@ -8,7 +8,8 @@
 **Teaching Assistants**<br>
 
 **[Grader]**<br>
-TBA<br>
+Jatin Khilnani ( Jatin.Khilnani AT pitt DOT edu )<br>
+Student Hours: Mon 4:30-5:30pm, Tue 10-11am and Fri 1-2pm @ SENSQ 6804<br>
 
 **[Recitation]**<br>
 Emily Rojas ( esr107 AT pitt DOT edu )<br>
@@ -16,6 +17,9 @@ Student Hours: Tue 4-6pm and Wed 4-5pm @ SENSQ 5804<br>
 
 Kylie Phillips ( kep208 AT pitt DOT edu )<br>
 Student Hours: Mon 11:45am-2:45pm @ IS 2A11<br>
+
+John Onubogu ( jco48 AT pitt DOT edu )<br>
+Student Hours: Tue 3-5pm @ <a href="https://pitt.zoom.us/j/95853783828">zoom</a> and Fri 9-10 am @ SENSQ 6503<br>
 
 **Canvas:** used for announcements and assignment submission<br>
     
