@@ -19,7 +19,7 @@ Kylie Phillips ( kep208 AT pitt DOT edu )<br>
 Student Hours: Mon 11:45am-2:45pm @ IS 2A11<br>
 
 John Onubogu ( jco48 AT pitt DOT edu )<br>
-Student Hours: Tue 3-5pm @ <a href="https://pitt.zoom.us/j/95853783828">zoom</a> and Fri 9-10 am @ SENSQ 6503<br>
+Student Hours: Tue 3-5pm @ <a href="https://pitt.zoom.us/j/95853783828">zoom</a> and Fri 11am-12pm @ SENSQ 6503<br>
 
 **Canvas:** used for announcements and assignment submission<br>
     
