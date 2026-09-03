@@ -9,7 +9,7 @@
 
 **[Grader]**<br>
 Jatin Khilnani ( Jatin.Khilnani AT pitt DOT edu )<br>
-Student Hours: Mon 4:30-5:30pm, Tue 10-11am and Fri 1-2pm @ SENSQ 6804<br>
+Student Hours: Mon 11am-12pm, Tue 10-11am and Fri 11am-12pm @ SENSQ 6804<br>
 
 **[Recitation]**<br>
 Emily Rojas ( esr107 AT pitt DOT edu )<br>
