@@ -11,8 +11,8 @@ Fengyi Gao ( feg48 AT pitt DOT edu )<br>
 Student Hours: Mon 10am-1pm @ SHRS 4102B - Fifth and Halket, 3396 Fifth Ave, Pittsburgh, PA 15213<br>
 
 **[Lab TAs]**<br>
-Joshua Packett ( jpp88 AT pitt DOT edu )<br>
-Student Hours: Mon 12:30-2:30pm and Fri 2-3pm @ SENSQ 6503<br>
+Benediktus Djunaidi ( bdd43 AT pitt DOT edu )<br>
+Student Hours: Tue/Thu 9:30-11am @ SENSQ 6508<br>
 
 Harsh Sinha ( harsh.sinha AT pitt DOT edu )<br>
 Student Hours: Fri 2-5pm @ SENSQ 5108<br>
