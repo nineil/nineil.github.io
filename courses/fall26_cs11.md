@@ -15,6 +15,6 @@ Benediktus Djunaidi ( bdd43 AT pitt DOT edu )<br>
 Student Hours: Tue/Thu 9:30-11am @ SENSQ 6508<br>
 
 Harsh Sinha ( harsh.sinha AT pitt DOT edu )<br>
-Student Hours: Fri 2-5pm @ SENSQ 5108<br>
+Student Hours: Fri 2-5pm @ SENSQ 6506<br>
 
 Course material is available in **Canvas**.<br>
