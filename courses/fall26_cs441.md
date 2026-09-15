@@ -25,13 +25,15 @@ Student Hours: Tue 3-5pm @ <a href="https://pitt.zoom.us/j/95853783828">zoom</a>
     
 ### Schedule
 
-Date        | Chapter          | Topic                                          | Slides       
------------ | -----------      |------------------------------------------------| -----------  
-08/25       | The Foundations  | Introduction                                   | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pptx)]
-08/27       |                  | Propositional Logic                            | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_2.prop-logic.pptx)]
-09/01       |                  | Propositional Logic                            |
-09/03       |                  | Puzzles and Propositional Equivalence          | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_4.prop-equiv.pptx)]
-09/08       |                  | Predicates and Quantifiers                     | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_5.predicates.pptx)]
-09/10       |                  | Nested Quantifiers                             | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_6.nested-quantifiers.pptx)]
+Date        | Chapter          | Topic                                            | Slides       
+----------- | -----------      |--------------------------------------------------| -----------  
+08/25       | The Foundations  | Introduction                                     | lec_1.intro [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pdf)] [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_1.intro.pptx)]
+08/27       |                  | Propositional Logic                              | lec_2.prop-logic [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_2.prop-logic.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_2.prop-logic.pptx)]
+09/01       |                  | Propositional Logic                              |
+09/03       |                  | Puzzles and Propositional Equivalence            | lec_4.prop-equiv [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_4.prop-equiv.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_4.prop-equiv.pptx)]
+09/08       |                  | Predicates and Quantifiers                       | lec_5.predicates [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_5.predicates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_5.predicates.pptx)]
+09/10       |                  | Nested Quantifiers                               | lec_6.nested-quantifiers [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_6.nested-quantifiers.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_6.nested-quantifiers.pptx)]
 09/15       |                  | Rules of Inference                               |  lec_7.rules-of-inference  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_7.rules-of-inference.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_7.rules-of-inference.pptx)]
 09/17       |                  | Informal Proofs                                  |  lec_8.informal-proofs  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_8.informal-proofs.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_8.informal-proofs.pptx)]
+09/22       |                  | Proof Methods                                    |  lec_9.proof-methods  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_9.proof-methods.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_9.proof-methods.pptx)]
+09/24       | Basic Structures | Sets                                             |  lec_10.sets  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_10.sets.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_10.sets.pptx)]
