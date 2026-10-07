@@ -8,7 +8,7 @@
 **Teaching Assistants**<br>
 **[Grader]**<br>
 Fengyi Gao ( feg48 AT pitt DOT edu )<br>
-Student Hours: Mon 10am-1pm @ SHRS 4102B - Fifth and Halket, 3396 Fifth Ave, Pittsburgh, PA 15213<br>
+Student Hours: Mon 10am-1pm @ SENSQ 6803<br>
 
 **[Lab TAs]**<br>
 Benediktus Djunaidi ( bdd43 AT pitt DOT edu )<br>
