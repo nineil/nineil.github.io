@@ -47,3 +47,5 @@ Date        | Chapter          | Topic                                 | Slides
 10/22       | Algorithms       | Algorithms                            |  lec_14.algorithms  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_14.algorithms.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_14.algorithms.pptx)]
 10/27       |                  | Growth Rates                          |  lec_15.growth-rates  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_15.growth-rates.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_15.growth-rates.pptx)]
 10/29       |                  | Complexity                            |  lec_16.complexity  [[pdf](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_16.complexity.pdf)]  [[pptx](https://sites.pitt.edu/~nem177/courses/fall26_cs441/lec_16.complexity.pptx)]
+...         |                   | ...                                   |
+12/10       |                   | Exam 2 –> 12pm - 1:50pm @ SENSQ 5502  |

@@ -18,3 +18,4 @@ Harsh Sinha ( harsh.sinha AT pitt DOT edu )<br>
 Student Hours: Fri 2-5pm @ SENSQ 6506<br>
 
 Course material is available in **Canvas**.<br>
+<br>**Exam 2 will be on 12/10, 2pm - 3:50pm @ SENSQ 5502.**<br>
